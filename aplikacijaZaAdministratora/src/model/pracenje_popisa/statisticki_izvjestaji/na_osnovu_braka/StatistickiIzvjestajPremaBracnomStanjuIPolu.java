@@ -1,7 +1,18 @@
 package model.pracenje_popisa.statisticki_izvjestaji.na_osnovu_braka;
 
+import model.pracenje_popisa.Izvjestaj;
+import model.pracenje_popisa.statisticki_podaci.StatistickiPodaci;
+
 /**
  * Statistički izvještaj prema zakonskom bračnom stanju i polu.
  */
-public class StatistickiIzvjestajPremaBracnomStanjuIPolu {
+public class StatistickiIzvjestajPremaBracnomStanjuIPolu extends StatistickiIzvjestajPremaBracnomStatusu {
+    public StatistickiIzvjestajPremaBracnomStanjuIPolu(StatistickiPodaci[] statistickiPodaci) {
+        super(statistickiPodaci);
+    }
+
+    @Override
+    public Izvjestaj kreirajIzvjestaj() {
+        return null;
+    }
 }

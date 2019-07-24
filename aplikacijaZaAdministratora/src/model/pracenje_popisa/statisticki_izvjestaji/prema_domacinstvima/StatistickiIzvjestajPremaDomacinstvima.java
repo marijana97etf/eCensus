@@ -1,9 +1,13 @@
 package model.pracenje_popisa.statisticki_izvjestaji.prema_domacinstvima;
 
 import model.pracenje_popisa.statisticki_izvjestaji.StatistickiIzvjestaj;
+import model.pracenje_popisa.statisticki_podaci.StatistickiPodaci;
 
 /**
  * Statistički izvještaj prema domaćinstvima.
  */
-public interface StatistickiIzvjestajPremaDomacinstvima extends StatistickiIzvjestaj {
+public abstract class StatistickiIzvjestajPremaDomacinstvima extends StatistickiIzvjestaj {
+    public StatistickiIzvjestajPremaDomacinstvima(StatistickiPodaci[] statistickiPodaci) {
+        super(statistickiPodaci);
+    }
 }

@@ -5,10 +5,11 @@ import model.pracenje_popisa.Izvjestaj;
 /**
  * Statistički izvještaj prema starosti i polu po petogodistima naselja.
  */
-public class StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja implements StatistickiIzvjestajZaStarostIPol{
+public class StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja extends StatistickiIzvjestajZaStarostIPol{
     protected String opstina;
 
     public StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja(String opstina) {
+        super();
         this.opstina = opstina;
     }
 
