@@ -2,32 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf0e345-dbca-4fc2-b6ca-cbacd235feac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aplikacijaZaAdministratora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aplikacijaZaAdministratora.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/Administrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestIzvjestaji.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestIzvjestaji.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestStatistickiPodaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestStatistickiPodaci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_OZenamaPremaBrojuDjece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStanjuIPolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStatusu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaBrojuClanova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaDomacinstvima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaPoljoprivredi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_ORadu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_PremaEkonomskimKarakteristikama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaJeziku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaNacionalnosti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaObiljezjimaNacije.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaVjeroispovjestiIPolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaKompPismenostiIPolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaZavrsenojSkoliIPolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaObrazovanju.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaPismenostiIPolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanoveIZgrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanovePremaBrojuSobaIPovrsini.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaZgradePremaBrojuStanova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaGodinamaStarostiIPolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaStarostiIPoluPoPetogodistimaNaselja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_ZaStarostIPol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/TestIzvjestaji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestIzvjestaji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestStatistickiPodaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestStatistickiPodaci.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,33 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/Izvjestaj.java">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciOStanovniku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/Administrator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="-816">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,10 +79,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/TestStatistickiPodaci.java">
+        <entry file="file://$PROJECT_DIR$/src/test/TestDomacinstvo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/AgregatniPodaci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -99,54 +102,65 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/TestIzvjestaji.java">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="141">
+              <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="109">
+              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -156,9 +170,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -180,57 +195,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaPojedinacnimGodinamaStarostiIPolu.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" />
-        <option value="$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/prema_nacionalnosti_vjeroispovjesti_I_maternjem_jeziku/StatistickiIzvjestajPremaJeziku.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/JEZIK.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/PISMO.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/KorisnikSistema.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/Izvjestaj.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/Aktivnost.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/Popisnica.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisniKrug.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/IzvjestajOPopisivacu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisnicaOStanovniku.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisnicaODomacinstvu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/DnevnaAktivnost.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/CjelokupnaAktivnost.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/Max.java" />
-        <option value="$PROJECT_DIR$/src/test/TestStatistickiPodaci.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/AgregatniPodaci.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.java" />
         <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStanjuIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStatusu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaBrojuClanova.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaDomacinstvima.java" />
         <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaPoljoprivredi.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_ORadu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_PremaEkonomskimKarakteristikama.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaJeziku.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaNacionalnosti.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaObiljezjimaNacije.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaVjeroispovjestiIPolu.java" />
         <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaKompPismenostiIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaZavrsenojSkoliIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaObrazovanju.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaPismenostiIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanoveIZgrade.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanovePremaBrojuSobaIPovrsini.java" />
         <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" />
-        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/Administrator.java" />
-        <option value="$PROJECT_DIR$/src/test/TestIzvjestaji.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaZgradePremaBrojuStanova.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaGodinamaStarostiIPolu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaStarostiIPoluPoPetogodistimaNaselja.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_ZaStarostIPol.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/FERTILITET_ZENA.java" />
+        <option value="$PROJECT_DIR$/src/test/TestStatistickiPodaci.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciOStanovniku.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/starost_pol/StarostIPol.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.java" />
+        <option value="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.java" />
       </list>
     </option>
   </component>
@@ -247,8 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,63 +285,7 @@
               <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="na_osnovu_braka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="prema_domacinstvima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="prema_ekonomskim_karakteristikama" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="prema_obiljezjima_nacije" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="prema_obrazovnim_karakteristikama" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="za_stanove_i_zgrade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pracenje_popisa" type="462c0819:PsiDirectoryNode" />
-              <item name="statisticki_izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="za_starost_i_pol" type="462c0819:PsiDirectoryNode" />
+              <item name="statisticki_podaci" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aplikacijaZaAdministratora" type="b2602c69:ProjectViewProjectNode" />
@@ -340,9 +297,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -351,8 +314,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="model.pracenje_popisa.statisticki_izvjestaji" />
-      <recent name="model.pracenje_popisa.izvjestaji_o_popisivacu" />
+      <recent name="model.pracenje_popisa.statisticki_podaci.podaci_o_stanu" />
+      <recent name="model.pracenje_popisa.statisticki_podaci.podaci_o_domacinstvu" />
+      <recent name="model.pracenje_popisa.statisticki_podaci" />
+      <recent name="model.pracenje_popisa.statisticki_podaci.obrazovne_karakteristike" />
+      <recent name="model.pracenje_popisa.statisticki_podaci.ekonomske_karakteristike" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,6 +334,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.TestStatistickiPodaci">
+    <configuration name="TestDomacinstvo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test.TestDomacinstvo" />
+      <module name="aplikacijaZaAdministratora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestIzvjestaji" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.TestIzvjestaji" />
       <module name="aplikacijaZaAdministratora" />
@@ -390,6 +363,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestStatistickiPodaci" />
+      <item itemvalue="Application.TestDomacinstvo" />
       <item itemvalue="Application.TestIzvjestaji" />
     </list>
   </component>
@@ -406,10 +380,19 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3125506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32388663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -418,16 +401,16 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4979757" weight="0.3285968" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.3232682" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49311742" weight="0.3321492" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4983165" weight="0.3327338" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5020243" side_tool="true" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4979757" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5068826" side_tool="true" visible="true" weight="0.3321492" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49311742" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,456 +422,477 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" />
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" />
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" />
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" />
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" />
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/statisticki_izvjestaji/prema_nacionalnosti_vjeroispovjesti_I_maternjem_jeziku/StatistickiIzvjestajPremaJeziku.java" />
-    <entry file="file://$PROJECT_DIR$/src/ecensus/model/pracenje_popisa/Administrator.java" />
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/PISMO.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/VODOVOD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/JEZIK.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/KANALIZACIJA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/function/ToLongFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisnicaODomacinstvu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisniKrug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisnicaOStanovniku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/Popisnica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/IzvjestajOPopisivacu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/DnevnaAktivnost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/CjelokupnaAktivnost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/izvjestaji_o_popisivacu/Aktivnost.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/PRIKLJUCENA_INSTALACIJA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/KorisnikSistema.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/OpremljenostInstalacijama.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/PodaciOStanu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="2557" column="12" selection-start-line="2557" selection-start-column="12" selection-end-line="2557" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/Max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="9" column="103" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="103" />
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+            <element signature="e#1915#1916#0" expanded="true" />
+            <element signature="e#1984#1985#0" expanded="true" />
+            <element signature="e#2036#2037#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2132#2133#0" expanded="true" />
+            <element signature="e#2308#2309#0" expanded="true" />
+            <element signature="e#2343#2344#0" expanded="true" />
+            <element signature="e#2400#2401#0" expanded="true" />
+            <element signature="e#2448#2449#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
+            <element signature="e#2521#2522#0" expanded="true" />
+            <element signature="e#2576#2577#0" expanded="true" />
+            <element signature="e#2622#2623#0" expanded="true" />
+            <element signature="e#2682#2683#0" expanded="true" />
+            <element signature="e#2724#2725#0" expanded="true" />
+            <element signature="e#2910#2911#0" expanded="true" />
+            <element signature="e#2948#2949#0" expanded="true" />
+            <element signature="e#3008#3009#0" expanded="true" />
+            <element signature="e#3062#3063#0" expanded="true" />
+            <element signature="e#3100#3101#0" expanded="true" />
+            <element signature="e#3131#3132#0" expanded="true" />
+            <element signature="e#3182#3183#0" expanded="true" />
+            <element signature="e#3222#3223#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3281#3282#0" expanded="true" />
+            <element signature="e#3322#3323#0" expanded="true" />
+            <element signature="e#3356#3357#0" expanded="true" />
+            <element signature="e#3419#3420#0" expanded="true" />
+            <element signature="e#3462#3463#0" expanded="true" />
+            <element signature="e#3647#3648#0" expanded="true" />
+            <element signature="e#3676#3677#0" expanded="true" />
+            <element signature="e#3720#3721#0" expanded="true" />
+            <element signature="e#3756#3757#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/PRISTUPNOST_ZGRADI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/GRADJA_KROVA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/TIP_ZGRADE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/MATERIJAL_NOSIVOG_SISTEMA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/Zgrada.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciONeporodicnomDomacinstvu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="115" selection-start-line="11" selection-start-column="115" selection-end-line="11" selection-end-column="115" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciOViseclanomNeporodicnomDomacinstvu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="160">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciOSamackomDomacinstvu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciOPorodicnomDomacinstvu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_OZenamaPremaBrojuDjece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStanjuIPolu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStatusu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaBrojuClanova.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaDomacinstvima.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaPoljoprivredi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_ORadu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_PremaEkonomskimKarakteristikama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaJeziku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaNacionalnosti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaObiljezjimaNacije.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#467#468#0" expanded="true" />
             <element signature="e#507#508#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaVjeroispovjestiIPolu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaKompPismenostiIPolu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaZavrsenojSkoliIPolu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaObrazovanju.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaPismenostiIPolu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanoveIZgrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanovePremaBrojuSobaIPovrsini.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaZgradePremaBrojuStanova.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaGodinamaStarostiIPolu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaStarostiIPoluPoPetogodistimaNaselja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_ZaStarostIPol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/starost_pol/POL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/FERTILITET_ZENA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java">
+    <entry file="file://$PROJECT_DIR$/src/test/TestStatistickiPodaci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/starost_pol/StarostIPol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="124">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="124">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="141">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciOStanovniku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="-816">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java">
+    <entry file="file://$PROJECT_DIR$/src/test/TestDomacinstvo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/AgregatniPodaci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/AgregatniPodaci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/Izvjestaj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/Administrator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestStatistickiPodaci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestIzvjestaji.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
