@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf0e345-dbca-4fc2-b6ca-cbacd235feac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/aplikacijaZaAdministratora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aplikacijaZaAdministratora.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestIzvjestaji.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestIzvjestaji.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestStatistickiPodaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/test/TestStatistickiPodaci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajOZenamaPremaBrojuDjece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_OZenamaPremaBrojuDjece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStanjuIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStanjuIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/StatistickiIzvjestajPremaBracnomStatusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStatusu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaBrojuClanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaBrojuClanova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaDomacinstvima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaDomacinstvima.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/StatistickiIzvjestajPremaPoljoprivredi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaPoljoprivredi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajORadu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_ORadu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/StatistickiIzvjestajPremaEkonomskimKarakteristikama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_PremaEkonomskimKarakteristikama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaJeziku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaJeziku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaNacionalnosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaNacionalnosti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaObiljezjimaNacije.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaObiljezjimaNacije.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/StatistickiIzvjestajPremaVjeroispovjestiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaVjeroispovjestiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaKompjuterskojPismenostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaKompPismenostiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaNajviseZavrsenojSkoliIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaZavrsenojSkoliIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaObrazovanju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaObrazovanju.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/StatistickiIzvjestajPremaPismenostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaPismenostiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanoveIZgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanoveIZgrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaStanovePremaBrojuSobaIPovrsini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanovePremaBrojuSobaIPovrsini.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/StatistickiIzvjestajZaZgradePremaBrojuStanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaZgradePremaBrojuStanova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaGodinamaStarostiIPolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaGodinamaStarostiIPolu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajPremaStarostiIPoluPoPetogodistimaNaselja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaStarostiIPoluPoPetogodistimaNaselja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/StatistickiIzvjestajZaStarostIPol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_ZaStarostIPol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/TestIzvjestaji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestIzvjestaji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/TestStatistickiPodaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestStatistickiPodaci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aplikacijaZaAdministratora/META-INF/aplikacijaZaAdministratora.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciOStanovniku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-816">
+            <state relative-caret-position="238">
               <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/TestDomacinstvo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+            <state relative-caret-position="510">
+              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="493">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -123,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -132,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="680">
               <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
             </state>
           </provider>
@@ -141,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="663">
               <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
             </state>
           </provider>
@@ -150,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="561">
               <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
             </state>
           </provider>
@@ -159,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="391">
               <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
             </state>
           </provider>
@@ -250,9 +200,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -333,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStatistickiPodaci">
+  <component name="RunManager" selected="Application.TestIzvjestaji">
     <configuration name="TestDomacinstvo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test.TestDomacinstvo" />
       <module name="aplikacijaZaAdministratora" />
@@ -391,8 +341,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32388663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32955465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -402,14 +353,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.3232682" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49311742" weight="0.3321492" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4923077" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4983165" weight="0.3327338" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49959514" weight="0.3285968" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5068826" side_tool="true" visible="true" weight="0.3321492" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50769234" side_tool="true" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49311742" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -817,37 +768,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciOStanovniku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
+        <state relative-caret-position="238">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -857,28 +780,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/TestDomacinstvo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        <state relative-caret-position="510">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -889,10 +795,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java">
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
