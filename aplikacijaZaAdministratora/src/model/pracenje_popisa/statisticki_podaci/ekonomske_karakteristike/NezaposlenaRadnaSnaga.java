@@ -1,6 +1,5 @@
 package model.pracenje_popisa.statisticki_podaci.ekonomske_karakteristike;
 
-import org.jetbrains.annotations.Contract;
 
 public class NezaposlenaRadnaSnaga implements RadnoAktivnoStanovnistvo {
     private STANJE_NEZAPOSLENOG stanjeNezaposlenog;
@@ -8,7 +7,6 @@ public class NezaposlenaRadnaSnaga implements RadnoAktivnoStanovnistvo {
 
     // CONSTRUKTOR
 
-    @Contract(pure = true)
     public NezaposlenaRadnaSnaga(STANJE_NEZAPOSLENOG stanjeNezaposlenog) {
         this.stanjeNezaposlenog = stanjeNezaposlenog;
     }
