@@ -38,7 +38,7 @@
             <Insets right="10.0" />
          </GridPane.margin>
          <image>
-            <Image url="@ZastavaBosneIHercegovine.png" />
+            <Image url="@../resources/ZastavaBosneIHercegovine.png" />
          </image>
       </ImageView>
       <Separator minWidth="700.0" prefHeight="8.0" prefWidth="700.0" GridPane.columnSpan="2" GridPane.hgrow="ALWAYS" GridPane.rowIndex="1" GridPane.valignment="TOP" GridPane.vgrow="NEVER" />
@@ -85,7 +85,7 @@
             <Insets right="20.0" top="10.0" />
          </GridPane.margin>
          <image>
-            <Image url="@Popisivac.png" />
+            <Image url="@../resources/Popisivac.png" />
          </image>
       </ImageView>
       <Label alignment="CENTER" prefHeight="28.0" prefWidth="97.0" text="Popisivač" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="3" GridPane.valignment="BOTTOM">

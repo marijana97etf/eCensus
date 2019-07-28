@@ -226,7 +226,7 @@
             </Label>
             <ImageView fitHeight="33.0" fitWidth="82.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6">
                <image>
-                  <Image url="@ZastavaBosneIHercegovine.png" />
+                  <Image url="@../resources/ZastavaBosneIHercegovine.png" />
                </image>
                <GridPane.margin>
                   <Insets left="30.0" />
