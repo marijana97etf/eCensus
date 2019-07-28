@@ -1,14 +1,25 @@
-package model.pracenje_popisa;
+package model.korisnicki_nalozi;
 
 import jdk.jshell.spi.ExecutionControl;
+import model.korisnicki_nalozi.KorisnikSistema;
+import model.pracenje_popisa.Izvjestaj;
+import model.pracenje_popisa.JEZIK;
+import model.pracenje_popisa.PISMO;
 
+import java.io.Serializable;
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 
-public class Administrator extends KorisnikSistema
+public abstract class Administrator extends KorisnikSistema
 {
-    public Administrator() {
-        super();
+    public Administrator(String JMBG,
+                         String ime,
+                         String prezime,
+                         String korisnickoIme,
+                         String lozinka,
+                         JEZIK jezik,
+                         PISMO pismo)
+    {
+        super(JMBG, ime, prezime, korisnickoIme, lozinka, jezik, pismo);
     }
 
     public Izvjestaj kreirajIzvjestaj(Class<? extends Izvjestaj> izvjestaj, Object... params) throws Exception {
