@@ -6,11 +6,13 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.io.File;
+
 public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        Parent root = FXMLLoader.load(getClass().getResource("/forme/FormaZaPrijavu.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("/forme" + File.separator + "FormaZaPrijavu.fxml"));
         primaryStage.setTitle("eCensus");
         primaryStage.setScene(new Scene(root));
         primaryStage.setResizable(false);
