@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="">
+    <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="Refactoring...">
+      <change beforePath="$PROJECT_DIR$/.idea/eCensus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eCensus.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,25 +23,16 @@
         <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java">
+        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="136">
+              <caret line="17" column="111" lean-forward="true" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="111" />
             </state>
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder" />
@@ -64,8 +54,8 @@
       <list>
         <option value="$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" />
-        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" />
       </list>
     </option>
   </component>
@@ -194,7 +184,7 @@
       <workItem from="1564067885902" duration="892000" />
       <workItem from="1564318719358" duration="2088000" />
       <workItem from="1564320995793" duration="1512000" />
-      <workItem from="1567168251750" duration="788000" />
+      <workItem from="1567168251750" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="Kreirana baza podataka za korisnike sistema.">
       <created>1564068016220</created>
@@ -245,11 +235,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564321455450</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactoring...">
+      <created>1567169429976</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567169429976</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5280000" />
+    <option name="totallyTimeSpent" value="5586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,8 +259,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -280,7 +278,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.28968903" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.28968903" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.30114567" />
@@ -360,21 +358,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/eCensus.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="247" selection-start-line="15" selection-start-column="247" selection-end-line="15" selection-end-column="247" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -394,15 +377,15 @@
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/controller/KontrolerFormeZaPrijavu.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml">
       <provider selected="true" editor-type-id="text-editor">
@@ -412,12 +395,27 @@
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java">
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="111" lean-forward="true" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="111" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
   </component>
   <component name="masterDetails">
