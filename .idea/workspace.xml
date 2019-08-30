@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="Kreirana forma za popisivanje stanovnika.">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/eCensus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eCensus.iml" afterDir="false" />
+    <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/FormaZaPrijavu.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/ZastavaBosneIHercegovine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,42 +23,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="247" selection-start-line="15" selection-start-column="247" selection-end-line="15" selection-end-column="247" />
+            <state relative-caret-position="170">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
+        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>controller</find>
+      <find>kontroler</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,8 +62,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" />
       </list>
     </option>
   </component>
@@ -82,37 +79,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
               <item name="eCensus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eCensus" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eCensus" type="462c0819:PsiDirectoryNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eCensus" type="462c0819:PsiDirectoryNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eCensus" type="462c0819:PsiDirectoryNode" />
-              <item name="aplikacijaZaAdministratora" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
@@ -175,9 +150,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/javafx/javafx-sdk-12.0.1/lib" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -196,6 +172,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplikacijaZaPopisivaca.src.main.Main" />
+      <module name="eCensus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -208,7 +193,8 @@
       <updated>1564042045237</updated>
       <workItem from="1564067885902" duration="892000" />
       <workItem from="1564318719358" duration="2088000" />
-      <workItem from="1564320995793" duration="338000" />
+      <workItem from="1564320995793" duration="1512000" />
+      <workItem from="1567168251750" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="Kreirana baza podataka za korisnike sistema.">
       <created>1564068016220</created>
@@ -245,11 +231,25 @@
       <option name="project" value="LOCAL" />
       <updated>1564320518395</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactoring...">
+      <created>1564321409305</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564321409305</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactoring...">
+      <created>1564321455450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564321455450</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3318000" />
+    <option name="totallyTimeSpent" value="5280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,7 +263,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -280,7 +280,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.21767594" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.28968903" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.30114567" />
@@ -342,26 +342,23 @@
     <MESSAGE value="Kreirana baza podataka za korisnike sistema." />
     <MESSAGE value="Kreirana forma za popisivanje stanovnika." />
     <MESSAGE value="Renaming..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming..." />
+    <MESSAGE value="Refactoring..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/model/pracenje_popisa/PISMO.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPopisivanjeStanovnika.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="86" column="31" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="31" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/eCensus.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -371,18 +368,54 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="247" selection-start-line="15" selection-start-column="247" selection-end-line="15" selection-end-column="247" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="27" column="89" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/controller/KontrolerFormeZaPrijavu.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/view/FormaZaPrijavu.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -436,10 +469,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>eCensus</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

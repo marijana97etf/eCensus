@@ -1,4 +1,4 @@
-package kontroleri;
+package controller;
 
 public class KontrolerFormeZaRadPopisivaca {
 }
