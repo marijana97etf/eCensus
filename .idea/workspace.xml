@@ -1,315 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/PC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/FormaZaPrijavu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/ZastavaBosneIHercegovine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/Administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPrijavu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaRadPopisivaca.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/Popisivac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/ZastavaBosneIHercegovine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPrijavu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/util/HashEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/Administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/FormaZaPrijavu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/FormaZaRadPopisivaca.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/Popisivac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/ZastavaBosneIHercegovine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/KontrolerZaJezikeIPisma/KontrolerZaJezik.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaIzmjenuNalogaClanaPKLS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaIzmjenuNalogaDEInstruktora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaIzmjenuNalogaOGInstruktora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPregledClanovaPKLS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPregledDEInstruktora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPregledNaloga$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPregledNaloga$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPregledNaloga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPregledOGInstruktora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPrijavu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPromjenuJezika.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaPromjenuPisma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRadAdministratoraAgencije$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRadAdministratoraAgencije.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRadClanaPKLS$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRadClanaPKLS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRegistracijuClanaPKLS$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRegistracijuClanaPKLS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRegistracijuDEInstruktora$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_formi/KontrolerFormeZaRegistracijuDEInstruktora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_za_cuvanje_naloga/CuvanjeNaloga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_za_cuvanje_naloga/CuvanjeNalogaNaFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_za_cuvanje_naloga/CuvanjeNalogaNaServeru.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_za_cuvanje_naloga/CuvanjeNalogaUBaziLokalno.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/controller/kontroler_za_cuvanje_naloga/KontrolerZaCuvanjeNaloga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/files/accounts.aes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/files/key.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/files/lat_to_cyr_dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/forme/Administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaPrijavu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaRadPopisivaca.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/forme/Popisivac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/forme/ZastavaBosneIHercegovine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaPrijavu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaRadPopisivaca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/NOTICE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/allclasses-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Decade.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Ennead.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/KeyValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/LabelValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Octet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Pair.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Quartet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Quintet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Septet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Sextet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Triplet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Tuple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/Unit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Decade.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Ennead.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/KeyValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/LabelValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Octet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Pair.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Quartet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Quintet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Septet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Sextet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Triplet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Tuple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/class-use/Unit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValue9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValueKey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValueLabel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/IValueValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValue9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValueKey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValueLabel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/class-use/IValueValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/org/javatuples/valueintf/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/overview-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/resources/inherit.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/serialized-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/apidocs/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/dist/javatuples-1.2-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/dist/javatuples-1.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/dist/javatuples-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/libs/javatuples-1.2/lib/javatuples-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/Administrator$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/Administrator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/AdministratorAgencije.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/ClanPKLS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/DEInstruktor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/DEInstruktor$DRZAVA_ENTITET.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/DEInstruktor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/KorisnikSistema.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/OGInstruktor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/korisnicki_nalozi/SkladisteNaloga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/Izvjestaj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/JEZIK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/PISMO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/Aktivnost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/CjelokupnaAktivnost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/DnevnaAktivnost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/IzvjestajOPopisivacu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisniKrug.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/Popisnica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisnicaODomacinstvu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/izvjestaji_o_popisivacu/PopisnicaOStanovniku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/StatistickiIzvjestaj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_OZenamaPremaBrojuDjece.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStanjuIPolu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/na_osnovu_braka/SI_PremaBracnomStatusu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaBrojuClanova.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaDomacinstvima.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_domacinstvima/SI_PremaPoljoprivredi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_ORadu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_ekonomskim_karakteristikama/SI_PremaEkonomskimKarakteristikama.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaJeziku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaNacionalnosti.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaObiljezjimaNacije.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obiljezjima_nacije/SI_PremaVjeroispovjestiIPolu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaKompPismenostiIPolu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaObrazovanju.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaPismenostiIPolu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/prema_obrazovnim_karakteristikama/SI_PremaZavrsenojSkoliIPolu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanoveIZgrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaStanovePremaBrojuSobaIPovrsini.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/za_stanove_i_zgrade/SI_ZaZgradePremaBrojuStanova.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaGodinamaStarostiIPolu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_PremaStarostiIPoluPoPetogodistimaNaselja.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_izvjestaji/za_starost_i_pol/SI_ZaStarostIPol.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/AgregatniPodaci$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/AgregatniPodaci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/PodaciODomacinstvu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/PodaciOStanovniku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/PopisaniPodaci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/StatistickiPodaci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BRACNO_STANJE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/BracniStatusIFertilitetZena.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/bracni_status_fertilitet_zena/FERTILITET_ZENA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/DJELATNOST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EKONOMSKI_NEAKTIVNI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/EkonomskeKarakteristike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/NezaposlenaRadnaSnaga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/RadnaAktivnost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/RadnoAktivnoStanovnistvo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/RadnoNeaktivnoStranovnistvo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/STANJE_NEZAPOSLENOG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/ZANIMANJE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/ZAPOSLENOST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/ekonomske_karakteristike/ZaposlenaRadnaSnaga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/MATERNJI_JEZIK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NACIONALNOST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/NacionalnaObiljezja.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obiljezja_nacije/VJEROISPOVIJEST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/INFORMATICKA_PISMENOST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/NeSkolujeSe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ObrazovneKarakteristike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PISMENOST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjeFakulteta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjeOsnovneSkole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjePredskolskogObrazovanja.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjeSkole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjeSpecijalizacijePoslijeSrednjeSkole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjeSrednjeSkole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/PohadjanjeViseSkole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ProgramPoBolonji.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ProgramStudiranja.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/StariProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/TIP_STUDIJE_PO_PROGRAMU_PO_BOLONJI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/TIP_STUDIJE_PO_STAROM_PROGRAMU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/VRSTA_SREDNJE_SKOLE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ZavrsenaOsnovnaSkola.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ZavrsenaSkola.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ZavrsenaSrednjaSkola.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ZavrsenaVisaSkola.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/obrazovne_karakteristike/ZavrseniFakultet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/ClanDomacinstva.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/ClanDomacinstvaIzInostranstva.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/DomaciClanDomacinstva.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/OSNOV_KORISTENJA_STANA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciONeporodicnomDomacinstvu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciOPorodicnomDomacinstvu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciOSamackomDomacinstvu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PodaciOViseclanomNeporodicnomDomacinstvu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/PojediniClanDomacinstva.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/Porodica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_domacinstvu/TIP_PORODICE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/BROJ_SOBA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/Beskucnistvo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/DrugaJedinicaStanovanja.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/GRADJA_KROVA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/JedinicaZaStanovanje.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/KANALIZACIJA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/KolektivniStan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/MATERIJAL_NOSIVOG_SISTEMA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/NACIN_KORISTENJA_STANA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/NACIN_SNABDJEVANJA_VODOM_ZA_PICE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/NACIN_ZAGRIJAVANJA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/NaseljeniPolovniProstor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/OpremljenostInstalacijama.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/POSJEDOVANJE_TOALETA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/PRIKLJUCENA_INSTALACIJA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/PRISTUPNOST_ZGRADI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/PodaciOStanu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/SPRAT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/TIP_KOLEKTIVNOG_STANA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/TIP_ZGRADE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/VODOVOD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/VRSTA_ENERGENTA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/podaci_o_stanu/Zgrada.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/starost_pol/POL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/pracenje_popisa/statisticki_podaci/starost_pol/StarostIPol.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/table_input_models/AdministratorAgencijeInputModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/table_input_models/ClanPKLSInputModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/table_input_models/DEInstruktorInputModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/table_input_models/KorisnikInputModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/model/table_input_models/OGInstruktorInputModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/resources/Administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/resources/Popisivac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/resources/ZastavaBosneIHercegovine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/test/Pokreni_GUI_Aplikaciju.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/test/TestAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/test/TestDomacinstvo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/test/TestIzvjestaji.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/test/TestStatistickiPodaci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/util/HashEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaIzmjenuNalogaClanaPKLS.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaIzmjenuNalogaDEInstruktora.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaIzmjenuNalogaOGInstruktora.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaPregledClanovaPKLS.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaPregledNalogaDEInstruktora.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaPrijavu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaPromjenuJezika.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaPromjenuPisma.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaRadAdministratora.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaRadClanaPKLS.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaRegistracijuClanaPKLS.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eCensus/view/FormaZaRegistracijuDEInstruktora.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/eCensus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eCensus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaPrijavu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/controller/KontrolerFormeZaRadPopisivaca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/resources/Administrator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/resources/Popisivac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/resources/ZastavaBosneIHercegovine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaPrijavu.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/view/FormaZaRadPopisivaca.fxml" beforeDir="false" />
-    </list>
+    <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="119">
               <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/FormaZaPrijavu.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="15" column="171" selection-start-line="15" selection-start-column="171" selection-end-line="15" selection-end-column="171" />
             </state>
           </provider>
         </entry>
@@ -510,7 +212,7 @@
       <updated>1564042045237</updated>
       <workItem from="1567173335301" duration="2379000" />
       <workItem from="1567175972820" duration="5082000" />
-      <workItem from="1567190059639" duration="4391000" />
+      <workItem from="1567190059639" duration="4899000" />
     </task>
     <task id="LOCAL-00001" summary="Nastavak rada.">
       <created>1567175102484</created>
@@ -519,11 +221,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567175102484</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sredjivanje forme za popisivanje stanovnika.">
+      <created>1567203615597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567203615597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11852000" />
+    <option name="totallyTimeSpent" value="12360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,7 +247,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" sideWeight="0.50106156" side_tool="true" weight="0.25340393" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -548,7 +257,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,7 +266,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.2913257" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -575,7 +284,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nastavak rada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Nastavak rada." />
+    <MESSAGE value="Sredjivanje forme za popisivanje stanovnika." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sredjivanje forme za popisivanje stanovnika." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/model/pracenje_popisa/PISMO.java">
@@ -676,8 +386,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="119">
           <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/FormaZaPrijavu.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="171" selection-start-line="15" selection-start-column="171" selection-end-line="15" selection-end-column="171" />
         </state>
       </provider>
     </entry>
