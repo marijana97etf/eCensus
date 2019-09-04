@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaRadPopisivaca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaRadPopisivaca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/model/PopisnicaZaStanovnika.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/model/PopisnicaZaStanovnika.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="563" column="21" lean-forward="true" selection-start-line="563" selection-start-column="21" selection-end-line="563" selection-end-column="21" />
+            <state relative-caret-position="206">
+              <caret line="577" column="27" selection-start-line="577" selection-start-column="27" selection-end-line="577" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -203,7 +193,7 @@
       <workItem from="1567190059639" duration="5842000" />
       <workItem from="1567417475752" duration="23549000" />
       <workItem from="1567579676466" duration="867000" />
-      <workItem from="1567624456458" duration="10941000" />
+      <workItem from="1567624456458" duration="11314000" />
     </task>
     <task id="LOCAL-00001" summary="Nastavak rada.">
       <created>1567175102484</created>
@@ -226,11 +216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567204077288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Navodjenje popisivaca tokom popunjavanja i sprjecavanje gresaka.">
+      <created>1567636619078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567636619078</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48660000" />
+    <option name="totallyTimeSpent" value="49033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,7 +240,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" sideWeight="0.50106156" side_tool="true" weight="0.25340393" />
@@ -255,14 +251,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.22749591" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.22749591" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.2913257" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.20785597" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" visible="true" weight="0.20785597" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -283,7 +279,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nastavak rada." />
     <MESSAGE value="Sredjivanje forme za popisivanje stanovnika." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sredjivanje forme za popisivanje stanovnika." />
+    <MESSAGE value="Navodjenje popisivaca tokom popunjavanja i sprjecavanje gresaka." />
+    <option name="LAST_COMMIT_MESSAGE" value="Navodjenje popisivaca tokom popunjavanja i sprjecavanje gresaka." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/aplikacijaZaAdministratora/src/model/pracenje_popisa/PISMO.java">
@@ -449,8 +446,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="563" column="21" lean-forward="true" selection-start-line="563" selection-start-column="21" selection-end-line="563" selection-end-column="21" />
+        <state relative-caret-position="206">
+          <caret line="577" column="27" selection-start-line="577" selection-start-column="27" selection-end-line="577" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
