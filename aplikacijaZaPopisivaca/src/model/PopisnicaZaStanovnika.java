@@ -17,6 +17,7 @@ public class PopisnicaZaStanovnika {
     private String prezime;
     private String JMBG;
     private String pol;
+
     private Map<Integer, List<String>> odgovoriNaPitanja;
 
     public PopisnicaZaStanovnika() {
@@ -140,7 +141,7 @@ public class PopisnicaZaStanovnika {
         return odgovoriNaPitanja;
     }
 
-    public void dodajOdgovor(Integer idPitanja, List<String> odgovor){
-        odgovoriNaPitanja.put(idPitanja, odgovor);
+    public void setOdgovoriNaPitanja(Map<Integer, List<String>> odgovoriNaPitanja) {
+        this.odgovoriNaPitanja = odgovoriNaPitanja;
     }
 }

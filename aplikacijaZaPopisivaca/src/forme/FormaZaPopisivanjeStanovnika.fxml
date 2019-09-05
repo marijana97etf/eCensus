@@ -125,12 +125,12 @@
                         <Insets top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="BOTTOM">
+                <TextField fx:id="obrazacTextField" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="15.0" />
                     </GridPane.margin>
                 </TextField>
-                <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="BOTTOM">
+                <TextField fx:id="entitetTextField" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="15.0" />
                     </GridPane.margin>
@@ -151,24 +151,24 @@
                     </GridPane.margin>
                 </ImageView>
                 <Label text="IME:" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="2" />
-                <TextField GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="2">
+                <TextField fx:id="imeTextField" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="2">
                     <GridPane.margin>
                         <Insets left="10.0" />
                     </GridPane.margin>
                 </TextField>
                 <Label text="IME OCA ILI MAJKE:" GridPane.columnSpan="2" GridPane.halignment="RIGHT" GridPane.rowIndex="3" />
-                <TextField GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="3">
+                <TextField fx:id="imeOcaMajkeTextField" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="3">
                     <GridPane.margin>
                         <Insets left="10.0" />
                     </GridPane.margin>
                 </TextField>
                 <Label text="PREZIME:" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="4" />
-                <TextField GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="4">
+                <TextField fx:id="prezimeTextField" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="4">
                     <GridPane.margin>
                         <Insets left="10.0" />
                     </GridPane.margin>
                 </TextField>
-                <TextField GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="5">
+                <TextField fx:id="JMBTextField" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="5">
                     <GridPane.margin>
                         <Insets left="10.0" />
                     </GridPane.margin>
@@ -189,7 +189,7 @@
                         <Font name="System Bold" size="12.0" />
                     </font>
                 </Label>
-                <RadioButton fx:id="pitanje1Button1" mnemonicParsing="false" text="Član domaćinstva koji živi u mjestu popisa godinu dana ili duže ili se doselio sa namjerom da tu živi" GridPane.columnIndex="2" GridPane.columnSpan="4" GridPane.rowIndex="7">
+                <RadioButton mnemonicParsing="false" text="Član domaćinstva koji živi u mjestu popisa godinu dana ili duže ili se doselio sa namjerom da tu živi" GridPane.columnIndex="2" GridPane.columnSpan="4" GridPane.rowIndex="7">
                     <GridPane.margin>
                         <Insets bottom="20.0" />
                     </GridPane.margin>
@@ -197,12 +197,12 @@
                         <ToggleGroup fx:id="grupa1" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje1Button2" mnemonicParsing="false" text="Član domaćinstva odsutan iz mjesta popisa zbog rada/školovanja ili boravka u drugom mjestu u BiH ili inostranstvu" toggleGroup="$grupa1" GridPane.columnIndex="2" GridPane.columnSpan="4" GridPane.rowIndex="7" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Član domaćinstva odsutan iz mjesta popisa zbog rada/školovanja ili boravka u drugom mjestu u BiH ili inostranstvu" toggleGroup="$grupa1" GridPane.columnIndex="2" GridPane.columnSpan="4" GridPane.rowIndex="7" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="40.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje1Button3" mnemonicParsing="false" text="Privremeno prisutno u mjestu popisa kraće ili duže od godinu dana zbog rada/školovanja ili boravka" toggleGroup="$grupa1" GridPane.columnIndex="2" GridPane.columnSpan="4" GridPane.rowIndex="7" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Privremeno prisutno u mjestu popisa kraće ili duže od godinu dana zbog rada/školovanja ili boravka" toggleGroup="$grupa1" GridPane.columnIndex="2" GridPane.columnSpan="4" GridPane.rowIndex="7" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="15.0" />
                     </GridPane.margin>
@@ -662,7 +662,7 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje11Button1" layoutX="200.0" layoutY="1294.0" mnemonicParsing="false" text="U Bosni i Hercegovini" GridPane.columnIndex="2" GridPane.rowIndex="18">
+                <RadioButton fx:id="pitanje11Button1" layoutX="200.0" layoutY="1294.0" mnemonicParsing="false" text="Iz drugog mjesta u BiH" GridPane.columnIndex="2" GridPane.rowIndex="18">
                     <GridPane.margin>
                         <Insets bottom="30.0" />
                     </GridPane.margin>
@@ -670,7 +670,7 @@
                         <ToggleGroup fx:id="grupa10" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje11Button2" layoutX="200.0" layoutY="1343.0" mnemonicParsing="false" text="U drugoj državi (naziv druge države):" toggleGroup="$grupa10" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="18" GridPane.valignment="BOTTOM">
+                <RadioButton fx:id="pitanje11Button2" layoutX="200.0" layoutY="1343.0" mnemonicParsing="false" text="Iz druge države (naziv druge države):" toggleGroup="$grupa10" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="18" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="50.0" />
                     </GridPane.margin>
@@ -729,7 +729,7 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje12Button1" mnemonicParsing="false" text="Da (država u kojoj je lice živjelo):" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="19">
+                <RadioButton mnemonicParsing="false" text="Da (država u kojoj je lice živjelo):" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="19">
                     <GridPane.margin>
                         <Insets bottom="60.0" />
                     </GridPane.margin>
@@ -762,12 +762,12 @@
                         <Insets bottom="30.0" top="35.0" />
                     </GridPane.margin>
                 </ComboBox>
-                <RadioButton fx:id="pitanje12Button2" mnemonicParsing="false" text="Ne." toggleGroup="$grupa11" GridPane.columnIndex="2" GridPane.rowIndex="19" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Ne." toggleGroup="$grupa11" GridPane.columnIndex="2" GridPane.rowIndex="19" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="35.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje12Button3" mnemonicParsing="false" text="Lice je u inostranstvu." toggleGroup="$grupa11" GridPane.columnIndex="2" GridPane.rowIndex="19" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Lice je u inostranstvu." toggleGroup="$grupa11" GridPane.columnIndex="2" GridPane.rowIndex="19" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="10.0" />
                     </GridPane.margin>
@@ -1178,7 +1178,7 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <TextField GridPane.columnIndex="3" GridPane.rowIndex="30" GridPane.valignment="BOTTOM">
+                <TextField fx:id="pitanje23TextField" GridPane.columnIndex="3" GridPane.rowIndex="30" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="15.0" left="120.0" />
                     </GridPane.margin>
@@ -1197,7 +1197,7 @@
                         <Insets bottom="50.0" right="10.0" />
                     </GridPane.margin>
                 </Label>
-                <DatePicker GridPane.columnIndex="3" GridPane.rowIndex="31">
+                <DatePicker fx:id="pitanje24DatePicker1" GridPane.columnIndex="3" GridPane.rowIndex="31">
                     <GridPane.margin>
                         <Insets bottom="50.0" />
                     </GridPane.margin>
@@ -1207,7 +1207,7 @@
                         <Insets right="10.0" top="20.0" />
                     </GridPane.margin>
                 </Label>
-                <DatePicker GridPane.columnIndex="3" GridPane.rowIndex="31">
+                <DatePicker fx:id="pitanje24DatePicker2" GridPane.columnIndex="3" GridPane.rowIndex="31">
                     <GridPane.margin>
                         <Insets top="20.0" />
                     </GridPane.margin>
@@ -1217,7 +1217,7 @@
                         <Insets bottom="20.0" right="10.0" />
                     </GridPane.margin>
                 </Label>
-                <DatePicker GridPane.columnIndex="3" GridPane.rowIndex="31" GridPane.valignment="BOTTOM">
+                <DatePicker fx:id="pitanje24DatePicker3" GridPane.columnIndex="3" GridPane.rowIndex="31" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="15.0" />
                     </GridPane.margin>
@@ -1231,7 +1231,7 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje25Button1" mnemonicParsing="false" text="Bošnjak/Bošnjakinja" GridPane.columnIndex="3" GridPane.rowIndex="32" GridPane.valignment="TOP">
+                <RadioButton mnemonicParsing="false" text="Bošnjak/Bošnjakinja" GridPane.columnIndex="3" GridPane.rowIndex="32" GridPane.valignment="TOP">
                     <GridPane.margin>
                         <Insets top="35.0" />
                     </GridPane.margin>
@@ -1239,17 +1239,17 @@
                         <ToggleGroup fx:id="grupa22" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje25Button2" mnemonicParsing="false" text="Hrvat/Hrvatica" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32">
+                <RadioButton mnemonicParsing="false" text="Hrvat/Hrvatica" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32">
                     <GridPane.margin>
                         <Insets bottom="38.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje25Button3" mnemonicParsing="false" text="Srbin/Srpkinja" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32">
+                <RadioButton mnemonicParsing="false" text="Srbin/Srpkinja" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32">
                     <GridPane.margin>
                         <Insets top="18.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje25Button4" mnemonicParsing="false" text="Drugo:" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32">
+                <RadioButton mnemonicParsing="false" text="Drugo:" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32">
                     <GridPane.margin>
                         <Insets top="75.0" />
                     </GridPane.margin>
@@ -1259,7 +1259,7 @@
                         <Insets left="70.0" right="60.0" top="75.0" />
                     </GridPane.margin>
                 </TextField>
-                <RadioButton fx:id="pitanje25Button5" mnemonicParsing="false" text="Ne izjašnjava se" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Ne izjašnjava se" toggleGroup="$grupa22" GridPane.columnIndex="3" GridPane.rowIndex="32" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="15.0" />
                     </GridPane.margin>
@@ -1273,7 +1273,7 @@
                     </font>
                 </Label>
                 <Separator prefWidth="200.0" GridPane.columnSpan="7" GridPane.rowIndex="32" GridPane.valignment="BOTTOM" />
-                <RadioButton fx:id="pitanje26Button1" mnemonicParsing="false" text="Islamska" GridPane.columnIndex="3" GridPane.rowIndex="33" GridPane.valignment="TOP">
+                <RadioButton mnemonicParsing="false" text="Islamska" GridPane.columnIndex="3" GridPane.rowIndex="33" GridPane.valignment="TOP">
                     <GridPane.margin>
                         <Insets top="35.0" />
                     </GridPane.margin>
@@ -1281,32 +1281,32 @@
                         <ToggleGroup fx:id="grupa23" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje26Button2" mnemonicParsing="false" text="Katolička" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
+                <RadioButton mnemonicParsing="false" text="Katolička" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
                     <GridPane.margin>
                         <Insets bottom="75.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje26Button3" mnemonicParsing="false" text="Pravoslavna" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
+                <RadioButton mnemonicParsing="false" text="Pravoslavna" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
                     <GridPane.margin>
                         <Insets bottom="25.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje26Button4" mnemonicParsing="false" text="Agnostik" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
+                <RadioButton mnemonicParsing="false" text="Agnostik" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
                     <GridPane.margin>
                         <Insets top="25.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje26Button5" mnemonicParsing="false" text="Ateist" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
+                <RadioButton mnemonicParsing="false" text="Ateist" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33">
                     <GridPane.margin>
                         <Insets top="75.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje26Button6" mnemonicParsing="false" text="Drugo:" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Drugo:" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="35.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje26Button7" mnemonicParsing="false" text="Ne izjašnjava se" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Ne izjašnjava se" toggleGroup="$grupa23" GridPane.columnIndex="3" GridPane.rowIndex="33" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="10.0" />
                     </GridPane.margin>
@@ -1325,7 +1325,7 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje27Button1" mnemonicParsing="false" text="Bosanski" GridPane.columnIndex="2" GridPane.rowIndex="34">
+                <RadioButton mnemonicParsing="false" text="Bosanski" GridPane.columnIndex="2" GridPane.rowIndex="34">
                     <GridPane.margin>
                         <Insets bottom="50.0" />
                     </GridPane.margin>
@@ -1333,13 +1333,13 @@
                         <ToggleGroup fx:id="grupa24" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje27Button2" mnemonicParsing="false" text="Hrvatski" toggleGroup="$grupa24" GridPane.columnIndex="2" GridPane.rowIndex="34" />
-                <RadioButton fx:id="pitanje27Button3" mnemonicParsing="false" text="Srpski" toggleGroup="$grupa24" GridPane.columnIndex="2" GridPane.rowIndex="34">
+                <RadioButton mnemonicParsing="false" text="Hrvatski" toggleGroup="$grupa24" GridPane.columnIndex="2" GridPane.rowIndex="34" />
+                <RadioButton mnemonicParsing="false" text="Srpski" toggleGroup="$grupa24" GridPane.columnIndex="2" GridPane.rowIndex="34">
                     <GridPane.margin>
                         <Insets top="53.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje27Button4" mnemonicParsing="false" text="Drugo:" toggleGroup="$grupa24" GridPane.columnIndex="2" GridPane.rowIndex="34" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Drugo:" toggleGroup="$grupa24" GridPane.columnIndex="2" GridPane.rowIndex="34" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="10.0" />
                     </GridPane.margin>
@@ -1358,27 +1358,27 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <CheckBox mnemonicParsing="false" text="Obrada teksta" GridPane.columnIndex="3" GridPane.rowIndex="35" GridPane.valignment="TOP">
+                <CheckBox fx:id="pitanje28CheckBox1" mnemonicParsing="false" text="Obrada teksta" GridPane.columnIndex="3" GridPane.rowIndex="35" GridPane.valignment="TOP">
                     <GridPane.margin>
                         <Insets left="30.0" top="40.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Izrada tabela" GridPane.columnIndex="3" GridPane.rowIndex="35">
+                <CheckBox fx:id="pitanje28CheckBox2" mnemonicParsing="false" text="Izrada tabela" GridPane.columnIndex="3" GridPane.rowIndex="35">
                     <GridPane.margin>
                         <Insets bottom="22.0" left="30.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Korišćenje elektronske pošte" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="35">
+                <CheckBox fx:id="pitanje28CheckBox3" mnemonicParsing="false" text="Korišćenje elektronske pošte" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="35">
                     <GridPane.margin>
                         <Insets left="30.0" top="30.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Korišćenje interneta" GridPane.columnIndex="3" GridPane.rowIndex="35">
+                <CheckBox fx:id="pitanje28CheckBox4" mnemonicParsing="false" text="Korišćenje interneta" GridPane.columnIndex="3" GridPane.rowIndex="35">
                     <GridPane.margin>
                         <Insets left="30.0" top="83.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Ništa od navedenog" GridPane.columnIndex="3" GridPane.rowIndex="35" GridPane.valignment="BOTTOM">
+                <CheckBox fx:id="pitanje28CheckBox5" mnemonicParsing="false" text="Ništa od navedenog" GridPane.columnIndex="3" GridPane.rowIndex="35" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="10.0" left="30.0" />
                     </GridPane.margin>
@@ -1392,7 +1392,7 @@
                         <Font name="System Bold" size="12.0" />
                     </font>
                 </Label>
-                <RadioButton fx:id="pitanje29Button1" mnemonicParsing="false" text="Bez ikakvog obrazovanja" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36" GridPane.valignment="TOP">
+                <RadioButton mnemonicParsing="false" text="Bez ikakvog obrazovanja" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36" GridPane.valignment="TOP">
                     <GridPane.margin>
                         <Insets left="40.0" top="30.0" />
                     </GridPane.margin>
@@ -1400,7 +1400,7 @@
                         <ToggleGroup fx:id="grupa25" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje29Button2" mnemonicParsing="false" text="Nepotpuno osnovno obrazovanje (upisati najviši razred koji je lice završilo)" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="3" GridPane.rowIndex="36">
+                <RadioButton mnemonicParsing="false" text="Nepotpuno osnovno obrazovanje (upisati najviši razred koji je lice završilo)" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="3" GridPane.rowIndex="36">
                     <GridPane.margin>
                         <Insets bottom="125.0" left="40.0" />
                     </GridPane.margin>
@@ -1425,7 +1425,7 @@
                         <Insets bottom="65.0" left="10.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje29Button3" mnemonicParsing="false" text="Osnovna škola" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.rowIndex="36">
+                <RadioButton mnemonicParsing="false" text="Osnovna škola" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.rowIndex="36">
                     <GridPane.margin>
                         <Insets left="40.0" />
                     </GridPane.margin>
@@ -1498,7 +1498,7 @@
                         <Insets bottom="2.0" left="40.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje29Button4" mnemonicParsing="false" text="Srednja škola" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.rowIndex="36">
+                <RadioButton mnemonicParsing="false" text="Srednja škola" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.rowIndex="36">
                     <GridPane.margin>
                         <Insets left="40.0" top="60.0" />
                     </GridPane.margin>
@@ -1531,17 +1531,17 @@
                         <Insets left="100.0" top="60.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje29Button5" mnemonicParsing="false" text="Specijalizacija poslije srednje škole" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36">
+                <RadioButton mnemonicParsing="false" text="Specijalizacija poslije srednje škole" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36">
                     <GridPane.margin>
                         <Insets left="40.0" top="110.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje29Button6" mnemonicParsing="false" text="Viša škola i 1. stepen fakulteta" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36">
+                <RadioButton mnemonicParsing="false" text="Viša škola i 1. stepen fakulteta" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36">
                     <GridPane.margin>
                         <Insets left="40.0" top="165.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje29Button7" mnemonicParsing="false" text="Visoka škola/fakultet/akademija/univerzitet" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Visoka škola/fakultet/akademija/univerzitet" toggleGroup="$grupa25" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="36" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="10.0" left="40.0" />
                     </GridPane.margin>
@@ -1668,7 +1668,7 @@
                         <Insets top="30.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje30Button1" mnemonicParsing="false" text="Diplomirani (broj godina studija):" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37">
+                <RadioButton mnemonicParsing="false" text="Diplomirani (broj godina studija):" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37">
                     <GridPane.margin>
                         <Insets bottom="160.0" />
                     </GridPane.margin>
@@ -1676,17 +1676,17 @@
                         <ToggleGroup fx:id="grupa28" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje30Button2" mnemonicParsing="false" text="Specijalista" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.rowIndex="37">
+                <RadioButton mnemonicParsing="false" text="Specijalista" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.rowIndex="37">
                     <GridPane.margin>
                         <Insets bottom="110.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje30Button3" mnemonicParsing="false" text="Magistar" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.rowIndex="37">
+                <RadioButton mnemonicParsing="false" text="Magistar" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.rowIndex="37">
                     <GridPane.margin>
                         <Insets bottom="60.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje30Button4" mnemonicParsing="false" text="Doktor nauka" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.rowIndex="37">
+                <RadioButton mnemonicParsing="false" text="Doktor nauka" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.rowIndex="37">
                     <GridPane.margin>
                         <Insets bottom="10.0" />
                     </GridPane.margin>
@@ -1696,22 +1696,22 @@
                         <Insets top="70.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje30Button5" mnemonicParsing="false" text="Bachelor i diplomirani (studije I ciklusa)" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37">
+                <RadioButton mnemonicParsing="false" text="Bachelor i diplomirani (studije I ciklusa)" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37">
                     <GridPane.margin>
                         <Insets top="120.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje30Button6" mnemonicParsing="false" text="Magistar (studije II ciklusa i integrisane studije)" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37">
+                <RadioButton mnemonicParsing="false" text="Magistar (studije II ciklusa i integrisane studije)" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37">
                     <GridPane.margin>
                         <Insets top="170.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <RadioButton fx:id="pitanje30Button7" mnemonicParsing="false" text="Doktor nauka (studije III ciklusa)" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Doktor nauka (studije III ciklusa)" toggleGroup="$grupa28" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="37" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="20.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <TextField fx:id="pitanje30TextField" GridPane.columnIndex="3" GridPane.rowIndex="37" GridPane.valignment="TOP">
+                <TextField GridPane.columnIndex="3" GridPane.rowIndex="37" GridPane.valignment="TOP">
                     <GridPane.margin>
                         <Insets left="45.0" right="70.0" top="50.0" />
                     </GridPane.margin>
@@ -1834,7 +1834,7 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <RadioButton fx:id="pitanje33Button1" mnemonicParsing="false" text="Da" GridPane.columnIndex="3" GridPane.rowIndex="40">
+                <RadioButton mnemonicParsing="false" text="Da" GridPane.columnIndex="3" GridPane.rowIndex="40">
                     <GridPane.margin>
                         <Insets bottom="20.0" />
                     </GridPane.margin>
@@ -1842,13 +1842,13 @@
                         <ToggleGroup fx:id="grupa31" />
                     </toggleGroup>
                 </RadioButton>
-                <RadioButton fx:id="pitanje33Button3" mnemonicParsing="false" text="Ne" toggleGroup="$grupa31" GridPane.columnIndex="3" GridPane.rowIndex="40" GridPane.valignment="BOTTOM">
+                <RadioButton mnemonicParsing="false" text="Ne" toggleGroup="$grupa31" GridPane.columnIndex="3" GridPane.rowIndex="40" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="10.0" />
                     </GridPane.margin>
                 </RadioButton>
                 <Separator prefWidth="200.0" GridPane.columnSpan="7" GridPane.rowIndex="40" GridPane.valignment="BOTTOM" />
-                <RadioButton fx:id="pitanje33Button2" mnemonicParsing="false" text="Ne, ali ima posao na koji će se vratiti" toggleGroup="$grupa31" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="40">
+                <RadioButton mnemonicParsing="false" text="Ne, ali ima posao na koji će se vratiti" toggleGroup="$grupa31" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="40">
                     <GridPane.margin>
                         <Insets top="28.0" />
                     </GridPane.margin>
@@ -2206,52 +2206,52 @@
                         <Insets left="30.0" top="10.0" />
                     </GridPane.margin>
                 </Label>
-                <CheckBox mnemonicParsing="false" text="Automobil" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox1" mnemonicParsing="false" text="Automobil" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets bottom="200.0" left="80.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Autobus" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox2" mnemonicParsing="false" text="Autobus" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets bottom="150.0" left="80.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Tramvaj" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox3" mnemonicParsing="false" text="Tramvaj" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets bottom="100.0" left="80.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Trolejbus" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox4" mnemonicParsing="false" text="Trolejbus" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets bottom="50.0" left="80.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Voz" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox5" mnemonicParsing="false" text="Voz" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets left="80.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Motocikl" GridPane.columnIndex="3" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox6" mnemonicParsing="false" text="Motocikl" GridPane.columnIndex="3" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets left="80.0" top="50.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Bicikl" GridPane.columnIndex="3" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox7" mnemonicParsing="false" text="Bicikl" GridPane.columnIndex="3" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets left="80.0" top="100.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Pješice" GridPane.columnIndex="3" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox8" mnemonicParsing="false" text="Pješice" GridPane.columnIndex="3" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets left="80.0" top="150.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Ostalo" GridPane.columnIndex="3" GridPane.rowIndex="49">
+                <CheckBox fx:id="pitanje42CheckBox9" mnemonicParsing="false" text="Ostalo" GridPane.columnIndex="3" GridPane.rowIndex="49">
                     <GridPane.margin>
                         <Insets left="80.0" top="200.0" />
                     </GridPane.margin>
                 </CheckBox>
-                <CheckBox mnemonicParsing="false" text="Ne putuje" GridPane.columnIndex="3" GridPane.rowIndex="49" GridPane.valignment="BOTTOM">
+                <CheckBox fx:id="pitanje42CheckBox10" mnemonicParsing="false" text="Ne putuje" GridPane.columnIndex="3" GridPane.rowIndex="49" GridPane.valignment="BOTTOM">
                     <GridPane.margin>
                         <Insets bottom="7.0" left="80.0" />
                     </GridPane.margin>
@@ -2503,27 +2503,27 @@
                         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                     </rowConstraints>
                     <children>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="opstinaTextField1" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="opstinaTextField2" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="opstinaTextField3" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="opstinaTextField4" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="opstinaTextField5" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
@@ -2540,17 +2540,17 @@
                         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                     </rowConstraints>
                     <children>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="popisniKrugTextField1" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="popisniKrugTextField2" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="popisniKrugTextField3" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
@@ -2567,17 +2567,17 @@
                         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                     </rowConstraints>
                     <children>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="stanTextField1" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="stanTextField2" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="stanTextField3" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
@@ -2594,17 +2594,17 @@
                         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                     </rowConstraints>
                     <children>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="domacinstvoTextField1" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="domacinstvoTextField2" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="domacinstvoTextField3" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
@@ -2621,17 +2621,17 @@
                         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                     </rowConstraints>
                     <children>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="liceTextField1" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="liceTextField2" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
                         </TextField>
-                        <TextField maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
+                        <TextField fx:id="liceTextField3" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="25.0" prefWidth="30.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM">
                             <GridPane.margin>
                                 <Insets bottom="15.0" />
                             </GridPane.margin>
