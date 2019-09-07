@@ -429,6 +429,35 @@ public class KontrolerFormeZaPopisivanjeStanovnika {
                     pitanje2Button1.setDisable(true);
                     pitanje2Button2.setDisable(true);
                 }
+                if(button.getText().equals("Privremeno prisutno u mjestu popisa kraće ili duže od godinu dana " +
+                        "zbog rada/školovanja ili boravka")){
+                    grupa9.getToggles().forEach(toggle1 -> {
+                        Node node = (Node) toggle1 ;
+                        node.setDisable(true);
+                    });
+                    grupa10.getToggles().forEach(toggle1 -> {
+                        Node node = (Node) toggle1 ;
+                        node.setDisable(true);
+                    });
+                    pitanje11TextField1.setDisable(true);
+                    pitanje11TextField2.setDisable(true);
+                    pitanje11TextField3.setDisable(true);
+                    pitanje11DatePicker.setDisable(true);
+                }
+                else{
+                    grupa9.getToggles().forEach(toggle1 -> {
+                        Node node = (Node) toggle1 ;
+                        node.setDisable(false);
+                    });
+                    grupa10.getToggles().forEach(toggle1 -> {
+                        Node node = (Node) toggle1 ;
+                        node.setDisable(false);
+                    });
+                    pitanje11TextField1.setDisable(false);
+                    pitanje11TextField2.setDisable(false);
+                    pitanje11TextField3.setDisable(false);
+                    pitanje11DatePicker.setDisable(false);
+                }
             });
         });
 
@@ -1256,17 +1285,18 @@ public class KontrolerFormeZaPopisivanjeStanovnika {
                 odgovoriNaPitanja.get(9).add(pitanje9TextField3.getText());
         }
 
-        RadioButton odgovor10Button = (RadioButton)grupa9.getSelectedToggle();
-        if(odgovor10Button == null){
-            grupa9.getToggles().forEach(toggle -> {
-                RadioButton button = (RadioButton)toggle;
-                button.setStyle("-fx-border-color: RED");
-            });
-            prikaziUpozorenje("Morate odgovoriti na 10. pitanje.");
-            return;
+        if(isToggleGroupEnabled(grupa9)) {
+            RadioButton odgovor10Button = (RadioButton) grupa9.getSelectedToggle();
+            if (odgovor10Button == null) {
+                grupa9.getToggles().forEach(toggle -> {
+                    RadioButton button = (RadioButton) toggle;
+                    button.setStyle("-fx-border-color: RED");
+                });
+                prikaziUpozorenje("Morate odgovoriti na 10. pitanje.");
+                return;
+            } else
+                odgovoriNaPitanja.get(10).add(odgovor10Button.getText());
         }
-        else
-            odgovoriNaPitanja.get(10).add(odgovor10Button.getText());
 
         if(isToggleGroupEnabled(grupa10)){
             RadioButton odgovor11Button = (RadioButton)grupa10.getSelectedToggle();
@@ -1754,32 +1784,38 @@ public class KontrolerFormeZaPopisivanjeStanovnika {
         }
 
         if(!pitanje39TextField.isDisabled()){
-            if(pitanje39TextField.getText().isEmpty()){
-                pitanje39TextField.setStyle("-fx-border-color: RED");
-                prikaziUpozorenje("Morate odgovoriti na 39. pitanje.");
-                return;
-            }
-            else
+            if(!pitanje39TextField.getText().isEmpty())
                 odgovoriNaPitanja.get(39).add(pitanje39TextField.getText());
         }
 
         if(!pitanje40TextField1.isDisabled()){
-            if(pitanje40TextField1.getText().isEmpty() || pitanje40TextField2.getText().isEmpty()){
-                pitanje40TextField1.setStyle("-fx-border-color: RED");
+            if(!pitanje40TextField1.getText().isEmpty()){
+                if(pitanje40TextField2.getText().isEmpty()) {
+                    pitanje40TextField2.setStyle("-fx-border-color: RED");
+                    prikaziUpozorenje("Nepotpun odgovor na 40. pitanje.");
+                    return;
+                }
+                else {
+                    odgovoriNaPitanja.get(40).add(pitanje40TextField1.getText());
+                    odgovoriNaPitanja.get(40).add(pitanje40TextField2.getText());
+                }
+
+            }
+            else if(!pitanje40TextField2.getText().isEmpty()){
                 pitanje40TextField2.setStyle("-fx-border-color: RED");
-                prikaziUpozorenje("Morate odgovoriti na 40. pitanje.");
+                prikaziUpozorenje("Nepotpun odgovor na 40. pitanje.");
                 return;
             }
-            else {
+            else if(!pitanje40TextField1.getText().isEmpty() && !pitanje40TextField2.getText().isEmpty()){
                 odgovoriNaPitanja.get(40).add(pitanje40TextField1.getText());
                 odgovoriNaPitanja.get(40).add(pitanje40TextField2.getText());
             }
         }
 
         RadioButton odgovor41Button = (RadioButton)grupa37.getSelectedToggle();
-        if(odgovor41Button == null || (!pitanje41TextField1.isDisabled() && pitanje41TextField1.getText().isEmpty()) ||
+        if(odgovor41Button != null && ((!pitanje41TextField1.isDisabled() && pitanje41TextField1.getText().isEmpty()) ||
                 (!pitanje41TextField2.isDisabled() && pitanje41TextField2.getText().isEmpty()) ||
-                (!pitanje41TextField3.isDisabled() && pitanje41TextField3.getText().isEmpty())){
+                (!pitanje41TextField3.isDisabled() && pitanje41TextField3.getText().isEmpty()))){
             grupa37.getToggles().forEach(toggle -> {
                 RadioButton button = (RadioButton)toggle;
                 button.setStyle("-fx-border-color: RED");
@@ -1787,10 +1823,22 @@ public class KontrolerFormeZaPopisivanjeStanovnika {
             pitanje41TextField1.setStyle("-fx-border-color: RED");
             pitanje41TextField2.setStyle("-fx-border-color: RED");
             pitanje41TextField3.setStyle("-fx-border-color: RED");
-            prikaziUpozorenje("Morate odgovoriti na 41. pitanje.");
+            prikaziUpozorenje("Nepotpun odgovor na 41. pitanje.");
             return;
         }
-        else{
+        else if(odgovor41Button == null && (!pitanje41TextField1.getText().isEmpty() ||
+                !pitanje41TextField2.getText().isEmpty() || !pitanje41TextField3.getText().isEmpty())){
+            grupa37.getToggles().forEach(toggle -> {
+                RadioButton button = (RadioButton)toggle;
+                button.setStyle("-fx-border-color: RED");
+            });
+            pitanje41TextField1.setStyle("-fx-border-color: RED");
+            pitanje41TextField2.setStyle("-fx-border-color: RED");
+            pitanje41TextField3.setStyle("-fx-border-color: RED");
+            prikaziUpozorenje("Nepotpun odgovor na 41. pitanje.");
+            return;
+        }
+        else if(odgovor41Button != null){
             odgovoriNaPitanja.get(41).add(odgovor41Button.getText());
             if(pitanje41TextField3.isDisabled()){
                 odgovoriNaPitanja.get(41).add(pitanje41TextField1.getText());
@@ -1861,12 +1909,15 @@ public class KontrolerFormeZaPopisivanjeStanovnika {
                 odgovoriNaPitanja.get(44).add(odgovor44Button.getText());
         }
 
-        if(vidStepenComboBox.getSelectionModel().getSelectedItem() == null || vidUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
-        sluhStepenComboBox.getSelectionModel().getSelectedItem() == null || sluhUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
-        hodStepenComboBox.getSelectionModel().getSelectedItem() == null || hodUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
-        pamcenjeStepenComboBox.getSelectionModel().getSelectedItem() == null || pamcenjeUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
-        odijevanjeStepenComboBox.getSelectionModel().getSelectedItem() == null || odijevanjeUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
-        komunikacijaStepenComboBox.getSelectionModel().getSelectedItem() == null || komunikacijaUzrokComboBox.getSelectionModel().getSelectedItem() == null){
+        if(vidStepenComboBox.getSelectionModel().getSelectedItem() == null || sluhStepenComboBox.getSelectionModel().getSelectedItem() == null || sluhUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
+        hodStepenComboBox.getSelectionModel().getSelectedItem() == null || pamcenjeStepenComboBox.getSelectionModel().getSelectedItem() == null || pamcenjeUzrokComboBox.getSelectionModel().getSelectedItem() == null ||
+        odijevanjeStepenComboBox.getSelectionModel().getSelectedItem() == null || komunikacijaStepenComboBox.getSelectionModel().getSelectedItem() == null ||
+                (vidStepenComboBox.getSelectionModel().getSelectedItem().equals("Nema poteškoća") && vidUzrokComboBox.getSelectionModel().getSelectedItem() == null) ||
+                (sluhStepenComboBox.getSelectionModel().getSelectedItem().equals("Nema poteškoća") && sluhUzrokComboBox.getSelectionModel().getSelectedItem() == null) ||
+                (hodStepenComboBox.getSelectionModel().getSelectedItem().equals("Nema poteškoća") && hodUzrokComboBox.getSelectionModel().getSelectedItem() == null) ||
+                (pamcenjeStepenComboBox.getSelectionModel().getSelectedItem().equals("Nema poteškoća") && pamcenjeUzrokComboBox.getSelectionModel().getSelectedItem() == null) ||
+                (odijevanjeStepenComboBox.getSelectionModel().getSelectedItem().equals("Nema poteškoća") && odijevanjeUzrokComboBox.getSelectionModel().getSelectedItem() == null) ||
+                (komunikacijaStepenComboBox.getSelectionModel().getSelectedItem().equals("Nema poteškoća") && komunikacijaUzrokComboBox.getSelectionModel().getSelectedItem() == null)){
             vidStepenComboBox.setStyle("-fx-border-color: RED");
             vidUzrokComboBox.setStyle("-fx-border-color: RED");
             sluhStepenComboBox.setStyle("-fx-border-color: RED");

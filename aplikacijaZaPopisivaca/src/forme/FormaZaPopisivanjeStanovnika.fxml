@@ -1711,7 +1711,7 @@
                         <Insets bottom="20.0" />
                     </GridPane.margin>
                 </RadioButton>
-                <TextField GridPane.columnIndex="3" GridPane.rowIndex="37" GridPane.valignment="TOP">
+                <TextField fx:id="pitanje30TextField" GridPane.columnIndex="3" GridPane.rowIndex="37" GridPane.valignment="TOP">
                     <GridPane.margin>
                         <Insets left="45.0" right="70.0" top="50.0" />
                     </GridPane.margin>
