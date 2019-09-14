@@ -39,6 +39,7 @@ public class PopisnicaZaStanovnika {
         this.prezime = prezime;
         this.JMBG = JMBG;
         this.pol = pol;
+        odgovoriNaPitanja = new HashMap<>();
     }
 
     public int getIdObrasca() {

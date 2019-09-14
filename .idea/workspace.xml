@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f160beb0-1415-4289-b289-0ba271982aa9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaPopisivanjeStanovnika.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/forme/FormaZaPopisivanjeStanovnika.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/eCensus/model/PopisnicaZaStanovnika.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eCensus/model/PopisnicaZaStanovnika.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,20 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="2541" column="20" selection-start-line="2541" selection-start-column="20" selection-end-line="2541" selection-end-column="20" />
-            </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="1950" column="79" lean-forward="true" selection-start-line="1950" selection-start-column="79" selection-end-line="1950" selection-end-column="79" />
+            <state relative-caret-position="255">
+              <caret line="1603" column="72" lean-forward="true" selection-start-line="1603" selection-start-column="72" selection-end-line="1603" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,10 +31,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java">
+        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaDomacinstvo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1547">
-              <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+            <state relative-caret-position="2416">
+              <caret line="152" column="44" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#1457#1458#0" expanded="true" />
+                <element signature="e#1489#1490#0" expanded="true" />
+                <element signature="e#1536#1537#0" expanded="true" />
+                <element signature="e#1578#1579#0" expanded="true" />
+                <element signature="e#1612#1613#0" expanded="true" />
+                <element signature="e#1645#1646#0" expanded="true" />
+                <element signature="e#1694#1695#0" expanded="true" />
+                <element signature="e#1738#1739#0" expanded="true" />
+                <element signature="e#1771#1772#0" expanded="true" />
+                <element signature="e#1803#1804#0" expanded="true" />
+                <element signature="e#1850#1851#0" expanded="true" />
+                <element signature="e#1892#1893#0" expanded="true" />
+                <element signature="e#1931#1932#0" expanded="true" />
+                <element signature="e#1969#1970#0" expanded="true" />
+                <element signature="e#2028#2029#0" expanded="true" />
+                <element signature="e#2082#2083#0" expanded="true" />
+                <element signature="e#2113#2114#0" expanded="true" />
+                <element signature="e#2143#2144#0" expanded="true" />
+                <element signature="e#2186#2187#0" expanded="true" />
+                <element signature="e#2224#2225#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+                <element signature="e#2297#2298#0" expanded="true" />
+                <element signature="e#2352#2353#0" expanded="true" />
+                <element signature="e#2402#2403#0" expanded="true" />
+                <element signature="e#2434#2435#0" expanded="true" />
+                <element signature="e#2465#2466#0" expanded="true" />
+                <element signature="e#2510#2511#0" expanded="true" />
+                <element signature="e#2550#2551#0" expanded="true" />
+                <element signature="e#2582#2583#0" expanded="true" />
+                <element signature="e#2610#2611#0" expanded="true" />
+                <element signature="e#2652#2653#0" expanded="true" />
+                <element signature="e#2686#2687#0" expanded="true" />
+                <element signature="e#2722#2723#0" expanded="true" />
+                <element signature="e#2754#2755#0" expanded="true" />
+                <element signature="e#2804#2805#0" expanded="true" />
+                <element signature="e#2846#2847#0" expanded="true" />
+                <element signature="e#2880#2881#0" expanded="true" />
+                <element signature="e#2910#2911#0" expanded="true" />
+                <element signature="e#2956#2957#0" expanded="true" />
+                <element signature="e#2994#2995#0" expanded="true" />
+                <element signature="e#3025#3026#0" expanded="true" />
+                <element signature="e#3052#3053#0" expanded="true" />
+                <element signature="e#3092#3093#0" expanded="true" />
+                <element signature="e#3124#3125#0" expanded="true" />
+                <element signature="e#3160#3161#0" expanded="true" />
+                <element signature="e#3192#3193#0" expanded="true" />
+                <element signature="e#3242#3243#0" expanded="true" />
+                <element signature="e#3284#3285#0" expanded="true" />
+                <element signature="e#3317#3318#0" expanded="true" />
+                <element signature="e#3346#3347#0" expanded="true" />
+                <element signature="e#3390#3391#0" expanded="true" />
+                <element signature="e#3426#3427#0" expanded="true" />
+                <element signature="e#3625#3626#0" expanded="true" />
+                <element signature="e#3804#3805#0" expanded="true" />
+                <element signature="e#3841#3842#0" expanded="true" />
+                <element signature="e#3898#3899#0" expanded="true" />
+                <element signature="e#3950#3951#0" expanded="true" />
+                <element signature="e#3996#3997#0" expanded="true" />
+                <element signature="e#4041#4042#0" expanded="true" />
+                <element signature="e#3490#3491#0" expanded="true" />
+                <element signature="e#3530#3531#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeDomacinstva.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="1019" column="58" selection-start-line="1019" selection-start-column="58" selection-end-line="1019" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,10 +148,13 @@
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/main/Main.java" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaRadPopisivaca.fxml" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPrijavu.java" />
-        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml" />
-        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeDomacinstva.fxml" />
         <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaDomacinstvo.java" />
+        <option value="$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeDomacinstva.java" />
       </list>
     </option>
   </component>
@@ -108,8 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
@@ -158,6 +224,13 @@
               <item name="aplikacijaZaPopisivaca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kontroleri" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eCensus" type="462c0819:PsiDirectoryNode" />
+              <item name="aplikacijaZaPopisivaca" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eCensus" type="b2602c69:ProjectViewProjectNode" />
@@ -221,7 +294,9 @@
       <workItem from="1567579676466" duration="867000" />
       <workItem from="1567624456458" duration="11484000" />
       <workItem from="1567666329269" duration="29010000" />
-      <workItem from="1567842171630" duration="9170000" />
+      <workItem from="1567842171630" duration="9425000" />
+      <workItem from="1568108543961" duration="1483000" />
+      <workItem from="1568446553801" duration="20020000" />
     </task>
     <task id="LOCAL-00001" summary="Nastavak rada.">
       <created>1567175102484</created>
@@ -265,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567711366737</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Obrada popisnice za stanovnika u cilju pronalazenja gresaka popisivaca.">
+      <created>1567852857742</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567852857742</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87383000" />
+    <option name="totallyTimeSpent" value="109141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,8 +364,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.2806354" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.22239032" />
       <window_info id="Structure" order="1" sideWeight="0.50106156" side_tool="true" weight="0.25340393" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -293,14 +376,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.22749591" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.22749591" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.2913257" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" visible="true" weight="0.20785597" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.20785597" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -351,12 +434,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPrijavu.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="74" column="111" selection-start-line="74" selection-start-column="111" selection-end-line="74" selection-end-column="111" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/util/HashEngine.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,31 +462,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/out/production/AplikacijaZaPopisivaca/forme/FormaZaPrijavu.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaRadPopisivaca.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPrijavu.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -415,28 +488,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java">
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        <state relative-caret-position="43197">
+          <caret line="2541" column="20" selection-start-line="2541" selection-start-column="20" selection-end-line="2541" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaRadPopisivaca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeStanovnika.fxml">
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaStanovnika.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="2541" column="20" selection-start-line="2541" selection-start-column="20" selection-end-line="2541" selection-end-column="20" />
+        <state relative-caret-position="-970">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/forme/FormaZaPopisivanjeDomacinstva.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28662">
+          <caret line="1686" column="61" lean-forward="true" selection-start-line="1686" selection-start-column="61" selection-end-line="1686" selection-end-column="61" />
         </state>
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/model/PopisnicaZaDomacinstvo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2416">
+          <caret line="152" column="44" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1489#1490#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1738#1739#0" expanded="true" />
+            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1931#1932#0" expanded="true" />
+            <element signature="e#1969#1970#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2082#2083#0" expanded="true" />
+            <element signature="e#2113#2114#0" expanded="true" />
+            <element signature="e#2143#2144#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2224#2225#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2297#2298#0" expanded="true" />
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2402#2403#0" expanded="true" />
+            <element signature="e#2434#2435#0" expanded="true" />
+            <element signature="e#2465#2466#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+            <element signature="e#2550#2551#0" expanded="true" />
+            <element signature="e#2582#2583#0" expanded="true" />
+            <element signature="e#2610#2611#0" expanded="true" />
+            <element signature="e#2652#2653#0" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2722#2723#0" expanded="true" />
+            <element signature="e#2754#2755#0" expanded="true" />
+            <element signature="e#2804#2805#0" expanded="true" />
+            <element signature="e#2846#2847#0" expanded="true" />
+            <element signature="e#2880#2881#0" expanded="true" />
+            <element signature="e#2910#2911#0" expanded="true" />
+            <element signature="e#2956#2957#0" expanded="true" />
+            <element signature="e#2994#2995#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3052#3053#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3124#3125#0" expanded="true" />
+            <element signature="e#3160#3161#0" expanded="true" />
+            <element signature="e#3192#3193#0" expanded="true" />
+            <element signature="e#3242#3243#0" expanded="true" />
+            <element signature="e#3284#3285#0" expanded="true" />
+            <element signature="e#3317#3318#0" expanded="true" />
+            <element signature="e#3346#3347#0" expanded="true" />
+            <element signature="e#3390#3391#0" expanded="true" />
+            <element signature="e#3426#3427#0" expanded="true" />
+            <element signature="e#3625#3626#0" expanded="true" />
+            <element signature="e#3804#3805#0" expanded="true" />
+            <element signature="e#3841#3842#0" expanded="true" />
+            <element signature="e#3898#3899#0" expanded="true" />
+            <element signature="e#3950#3951#0" expanded="true" />
+            <element signature="e#3996#3997#0" expanded="true" />
+            <element signature="e#4041#4042#0" expanded="true" />
+            <element signature="e#3490#3491#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeStanovnika.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="1950" column="79" lean-forward="true" selection-start-line="1950" selection-start-column="79" selection-end-line="1950" selection-end-column="79" />
+        <state relative-caret-position="255">
+          <caret line="1603" column="72" lean-forward="true" selection-start-line="1603" selection-start-column="72" selection-end-line="1603" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacijaZaPopisivaca/src/kontroleri/KontrolerFormeZaPopisivanjeDomacinstva.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="1019" column="58" selection-start-line="1019" selection-start-column="58" selection-end-line="1019" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
